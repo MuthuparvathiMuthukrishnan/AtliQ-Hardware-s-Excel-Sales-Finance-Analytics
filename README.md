@@ -24,7 +24,7 @@
           ➥ to facilitate negotiations with consumers and     
           ➥ in identifying the potential business expansion opportunities in promising countries.
           
-⚡ Project 2: Finance Analytics:
+⚡ Project 2: Finance Analytics
 
     ➤ Profit and Loss by Fiscal Year: Analyzed profit and loss categorized by fiscal years.
     ➤ Profit and Loss by Fiscal Months: Evaluated profit and loss categorized by fiscal months.
